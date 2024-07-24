@@ -10,7 +10,7 @@ Golang, Solidity developer. Started from Python, switched 2,5+ years ago. My fav
 *   🌍  I'm based in Kyiv, Ukraine
 *   🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/antonyuhnovets)
 *   ✉️  You can contact me at [antonyuhnovec@gmail.com](mailto:antonyuhnovec@gmail.com)
-*   🧠  I'm learning Rust, CosmWasm, Cosmos-SDK
+*   🧠  Learning Rust, CosmWasm, Cosmos-SDK
 *   🤝  I'm open to collaborating on Blockchain
 *   ⚡  Overthinking is an eternal enemy.
   

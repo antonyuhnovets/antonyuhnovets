@@ -1,7 +1,7 @@
 👋 こんにちは 
   (Konnichiwa)
 ======================
-Anton, 25 y.o.
+I'm Anton, 25 y.o.
 Backend engineer
 ----------------
 

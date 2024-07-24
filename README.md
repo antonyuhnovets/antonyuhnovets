@@ -1,10 +1,11 @@
-👋 Greetings!
+👋 こんにちは 
+  (Konnichiwa)
 ======================
-
+Anton, 25 y.o.
 Backend engineer
 ----------------
 
-Golang, Solidity developer. Started with Python, switched 2+ years ago. My favorite combination in modern programming is go + blockchain. It's potential capabilities and behavior with integrated AI sometimes quite hard to imagine. In the same time, the prediction of it's further development cannot always be predicted accurate enough.
+Golang, Solidity developer. Started from Python, switched 2,5+ years ago. My favorite combination in modern programming is go + blockchain. It's potential capabilities and behavior with integrated AI sometimes quite hard to imagine. In the same time, the prediction of it's further development cannot always be predicted accurate enough.
 
 *   🌍  I'm based in Kyiv, Ukraine
 *   🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/antonyuhnovets)

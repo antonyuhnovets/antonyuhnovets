@@ -1,4 +1,4 @@
-👋 My name is Anton
+👋 Greetings!
 ======================
 
 Backend engineer

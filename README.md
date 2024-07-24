@@ -31,7 +31,7 @@ Golang, Solidity developer. Started from Python, switched 2,5+ years ago. My fav
     </a>
       <a href="https://www.github.com/antonyuhnovets" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
@@ -52,14 +52,14 @@ Golang, Solidity developer. Started from Python, switched 2,5+ years ago. My fav
     </a>
       <a href="https://www.x.com/antonyuhnovets" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
     </picture>
     </a>
       <a href="https://www.threads.net/@antonyuhnovets" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
     </picture>
@@ -68,11 +68,12 @@ Golang, Solidity developer. Started from Python, switched 2,5+ years ago. My fav
 ### Badges
 <table>
     <tr>
-<td> <a href="http://www.github.com/antonyuhnovets"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyuhnovets&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <ul style="list-style-type: none; margin: 0;"> <a> EVM: 0x3EB1D0c8EA2b466792C9f71Bd323767E509fDC63</a> </ul>
-  <ul style="list-style-type: none; margin: 0;"> <a> BSC: 0xa4dc4d2442d36b84175718797f568dcedabfc981</a> </ul>
+<th> <a href="http://www.github.com/antonyuhnovets"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyuhnovets&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <h3><center> Support </center></h3>
+  <ul style="list-style-type: none; margin: 0;"> <a href="https://www.buymeacoffee.com/antonyuhnovets"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>  <a href="https://www.ko-fi.com/antonyuhnovets"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a> </ul>
   <ul style="list-style-type: none; margin: 0;"> <a> TRX: TZD9VZe7XKtpWf1u4CPg9WSq8JAUJpnArM</a></ul> </ul> 
-<ul style="list-style-type: none; margin: 0;"> <ul style="list-style-type: none; margin: 0;"> <a href="https://www.buymeacoffee.com/antonyuhnovets"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>  <a href="https://www.ko-fi.com/antonyuhnovets"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a> </ul></td> 
-<td> <a href="https://github.com/antonyuhnovets"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyuhnovets&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> </ul></td>
+  <ul style="list-style-type: none; margin: 0;"> <a> BSC: 0xa4dc4d2442d36b84175718797f568dcedabfc981</a> </ul>
+  <ul style="list-style-type: none; margin: 0;"> <a> EVM: 0x3EB1D0c8EA2b466792C9f71Bd323767E509fDC63</a> </ul></th>
+<td> <a href="https://github.com/antonyuhnovets"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyuhnovets&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> </th>
     </tr>
 </table>

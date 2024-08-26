@@ -70,7 +70,7 @@ Backend engineer
     <tr>
 <th> <a href="http://www.github.com/antonyuhnovets"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyuhnovets&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <h3><center> Wallets </center></h3>
-  <ul style="list-style-type: none; margin: 0;"> <a> TRX: TZD9VZe7XKtpWf1u4CPg9WSq8JAUJpnArM</a></ul> </ul> 
+  <ul style="list-style-type: none; margin: 0;"> <a> TRX: TZD9VZe7XKtpWf1u4CPg9WSq8JAUJpnArM</a></ul> 
   <ul style="list-style-type: none; margin: 0;"> <a> BSC: 0xa4dc4d2442d36b84175718797f568dcedabfc981</a> </ul>
   <ul style="list-style-type: none; margin: 0;"> <a> EVM: 0x3EB1D0c8EA2b466792C9f71Bd323767E509fDC63</a> </ul></th>
 <td> <a href="https://github.com/antonyuhnovets"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonyuhnovets&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> </th>

@@ -69,8 +69,7 @@ Backend engineer
 <table>
     <tr>
 <th> <a href="http://www.github.com/antonyuhnovets"><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyuhnovets&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <h3><center> Support </center></h3>
-  <ul style="list-style-type: none; margin: 0;"> <a href="https://www.buymeacoffee.com/antonyuhnovets"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>  <a href="https://www.ko-fi.com/antonyuhnovets"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a> </ul>
+  <h3><center> Wallets </center></h3>
   <ul style="list-style-type: none; margin: 0;"> <a> TRX: TZD9VZe7XKtpWf1u4CPg9WSq8JAUJpnArM</a></ul> </ul> 
   <ul style="list-style-type: none; margin: 0;"> <a> BSC: 0xa4dc4d2442d36b84175718797f568dcedabfc981</a> </ul>
   <ul style="list-style-type: none; margin: 0;"> <a> EVM: 0x3EB1D0c8EA2b466792C9f71Bd323767E509fDC63</a> </ul></th>

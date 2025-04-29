@@ -1,6 +1,6 @@
-👋 こんにちは 
+👋 はじめまして
 ======================
-I'm Anton, 25 y.o.
+I'm Anton, 26 y.o.
 Backend engineer
 ----------------
 
@@ -9,9 +9,6 @@ Backend engineer
 *   🌍  Living in Kyiv, Ukraine
 *   🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/antonyuhnovets)
 *   ✉️  You can contact me at [antonyuhnovec@gmail.com](mailto:antonyuhnovec@gmail.com)
-*   🧠  Learning Rust, CosmWasm, Cosmos-SDK
-*   🤝  I'm open to collaborating on Blockchain
-*   ⚡  Overthinking is an eternal enemy.
   
   ### Skills 
 

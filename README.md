@@ -4,9 +4,9 @@ I'm Anton, 26 y.o.
 Backend engineer
 ----------------
 
-  Golang, Solidity developer. Started from Python, switched to Go and crypto domain about 2,5+ years ago. My favorite combination in modern programming is go-ethereum + blockchain, smart contracts, DeFi. It's potential capabilities and behavior with integrated AI sometimes quite hard to imagine. In the same time, the prediction of it's further development cannot always be predicted accurate enough.
+  Golang, Solidity developer. Started from Python, switched to Go about 2,5+ years ago. In addition to common backend expirience (REST, CRUD, parsers, Telegram, Discord bots etc.) I was also developing services that included blockchains interactions (EVM-like mostly), DeFi using Golang, smart-contracts using Solidity and building some unique soft focused on crypto-trading (preferably based on decentralized protocols like Uniswap). I believe that there is an extraordinary potential for improving the world's core global processes in blockchain technology and for now feel disappointment caused by the way of using it by modern society.
 
-*   🌍  Living in Kyiv, Ukraine
+*   🌍  Located in Kyiv, Ukraine
 *   🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/antonyuhnovets)
 *   ✉️  You can contact me at [antonyuhnovec@gmail.com](mailto:antonyuhnovec@gmail.com)
   

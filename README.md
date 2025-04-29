@@ -18,18 +18,18 @@ Backend engineer
   ### Socials
   
 <p align="left">
-      <a href="https://discord.com/users/musarai" target="_blank" rel="noreferrer">
+      <a href="https://www.stackoverflow.com/users/26492902/anton-yukhnovets" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
     </picture>
     </a>
-      <a href="https://www.github.com/antonyuhnovets" target="_blank" rel="noreferrer">
+      <a href="https://soundcloud.com/musarai" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://a-v2.sndcdn.com/assets/images/sc-icons/ios-a62dfc8fe7.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://a-v2.sndcdn.com/assets/images/sc-icons/ios-a62dfc8fe7.png" />
+    <img src="https://a-v2.sndcdn.com/assets/images/sc-icons/ios-a62dfc8fe7.png" width="32" height="32" />
     </picture>
     </a>
       <a href="http://www.instagram.com/antonyuhnovets" target="_blank" rel="noreferrer">
@@ -39,25 +39,11 @@ Backend engineer
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
     </picture>
     </a>
-      <a href="https://www.stackoverflow.com/users/26492902/anton-yukhnovets" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-    </picture>
-    </a>
-      <a href="https://www.x.com/antonyuhnovets" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </picture>
-    </a>
       <a href="https://www.threads.net/@antonyuhnovets" target="_blank" rel="noreferrer">
     <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://static.cdninstagram.com/rsrc.php/v4/y_/r/Pcnemah90K8.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://static.cdninstagram.com/rsrc.php/v4/y_/r/Pcnemah90K8.png" />
+    <img src="https://static.cdninstagram.com/rsrc.php/v4/y_/r/Pcnemah90K8.png" width="32" height="32" />
     </picture>
     </a></p>
     
